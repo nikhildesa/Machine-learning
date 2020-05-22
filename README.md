@@ -1,6 +1,7 @@
 # Machine-learning
 Basic machine learning codes
-1. Linear regression
-2. Logistic regression
-3. Polynomial regression
-4. Multilinear regression with backward elimination.
+1. Simple plotting for IRIS dataset
+2. Linear regression
+3. Logistic regression
+4. Naive Bayes
+5. Kmeans classification
